@@ -30,7 +30,8 @@
 7. [WINDOWS-REINSTALL.md](WINDOWS-REINSTALL.md): بازسازی روی ویندوز تازه.
 8. [SECURITY-NEXT-STEPS.md](SECURITY-NEXT-STEPS.md): امنیت انجام‌شده و کارهای پیش از Production.
 9. [SOURCE-STATE.md](SOURCE-STATE.md): شاخه‌ها، commitها و تفاوت APK نصب‌شده با سورس آنلاین.
-10. [API.md](API.md)، [DATABASE.md](DATABASE.md)، [ENVIRONMENT.md](ENVIRONMENT.md)، [BACKUP-RESTORE.md](BACKUP-RESTORE.md): جزئیات فنی.
+10. [HANDOFF-AUDIT.md](HANDOFF-AUDIT.md): آزمون ادامه‌دادن پروژه بدون چت و شکاف‌های باقی‌مانده.
+11. [API.md](API.md)، [DATABASE.md](DATABASE.md)، [ENVIRONMENT.md](ENVIRONMENT.md)، [BACKUP-RESTORE.md](BACKUP-RESTORE.md): جزئیات فنی.
 
 دفتر تاریخی سورس نیز [PROJECT_ROADMAP.md](https://github.com/mohseniamin64-cmd/SMS_Gate/blob/main/PROJECT_ROADMAP.md) است؛ بعضی تیک‌های ابتدای آن قدیمی‌اند. وضعیت قابل اتکا را از commit و تست همان نسخه تعیین کنید.
 
